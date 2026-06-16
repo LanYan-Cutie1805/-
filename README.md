@@ -6,7 +6,7 @@ HOW TO USE:
 2. Run the python file (.py)
 -- As simple as that --
 
-BUILT NOTE
+BUILT NOTES
 - v0.1 - BETA testing of the prototype
 - v1.1 - Add on study time and practice option
 - v1.2 - Terminal language option (JA and ENG)
