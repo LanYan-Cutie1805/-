@@ -7,8 +7,9 @@ HOW TO USE:
 -- As simple as that --
 
 BUILT NOTES
-- v0.1 - BETA testing of the prototype
-- v1.1 - Add on study time and practice option
-- v1.2 - Terminal language option (JA and ENG)
-- v1.3 - Add on study mode (price tags, time, dates, integers)
+- v0.1 - BETA tester
+- v0.2 - update on language (current)
+- v1.0 - update on summary stats + figure, add on save figure with study date and duration
+- v1.1 - fix on broken graph, more dates and price range
+- v2.0 - deploy on streamlit
 
